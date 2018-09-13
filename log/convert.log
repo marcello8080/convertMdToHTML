@@ -1,0 +1,127 @@
+Sep 13 19:24:20 - Convert.php called - Origin: include/Template.md - Destination:include/htmlfile.html 
+Sep 13 19:24:20 - Destination file alredy existing 
+Sep 13 19:25:57 - Convert.php called - Origin: include/Template.md - Destination:include/htmlfile.html 
+Sep 13 19:25:57 - Destination file alredy existing 
+Sep 13 19:26:15 - Convert.php called - Origin: include/Teplate.md - Destination:include/htmlfile.html 
+Sep 13 19:26:15 - Origin file not found 
+Sep 13 19:27:34 - Convert.php called - Origin: include/Teplate.md - Destination:include/htmlfile.html 
+Sep 13 19:27:34 - Origin file not found 
+Sep 13 19:28:13 - Convert.php called - Origin: include/Template.md - Destination:include/htmlfile.html 
+Sep 13 19:28:13 - Success include/htmlfile.html created with success 
+Sep 13 19:29:41 - Convert.php called - Origin: include/Template.md - Destination:include/htmlfile.html 
+Sep 13 19:29:41 - Destination file alredy existing 
+Sep 13 19:36:54 - Convert.php called - Origin: include/Template.md - Destination:include/htmlfile.html 
+Sep 13 19:36:54 - Destination file alredy existing 
+Sep 13 19:37:15 - Convert.php called - Origin:  - Destination: 
+Sep 13 19:37:15 - Missing origin file 
+Sep 13 19:37:27 - Convert.php called - Origin:  - Destination: 
+Sep 13 19:37:27 - Missing origin file 
+Sep 13 19:38:20 - Missing origin file 
+Sep 13 19:40:11 - Convert.php called 
+Sep 13 19:40:11 - Missing origin file 
+Sep 13 19:40:20 - Convert.php called 
+Sep 13 19:40:20 - Missing origin file 
+Sep 13 19:42:45 - Convert.php called 
+Sep 13 19:42:45 - Missing origin file 
+Sep 13 19:44:13 - Convert.php called 
+Sep 13 19:44:13 - Missing origin file 
+Sep 13 19:44:24 - Convert.php called 
+Sep 13 19:44:24 - Missing origin file 
+Sep 13 19:45:48 - Convert.php called 
+Sep 13 19:45:48 - Missing origin file 
+Sep 13 19:46:27 - Convert.php called 
+Sep 13 19:46:27 - Missing origin file 
+Sep 13 19:46:39 - Convert.php called 
+Sep 13 19:46:39 - Missing origin file 
+Sep 13 19:49:40 - Convert.php called 
+Sep 13 19:49:40 - Missing origin file 
+Sep 13 19:50:51 - Convert.php called 
+Sep 13 19:50:51 - Missing origin file 
+Sep 13 19:51:05 - Convert.php called 
+Sep 13 19:51:05 - Missing origin file 
+Sep 13 19:51:59 - Convert.php called 
+Sep 13 19:51:59 - Missing origin file 
+Sep 13 19:52:13 - Convert.php called 
+Sep 13 19:52:13 - Missing origin file 
+Sep 13 19:52:23 - Convert.php called 
+Sep 13 19:52:23 - Missing origin file 
+Sep 13 19:52:30 - Convert.php called 
+Sep 13 19:52:30 - Missing origin file 
+Sep 13 19:54:25 - Convert.php called 
+Sep 13 19:54:25 - Missing origin file 
+Sep 13 19:55:19 - Convert.php called 
+Sep 13 19:55:19 - Missing origin file 
+Sep 13 19:55:27 - Convert.php called 
+Sep 13 19:55:27 - Missing origin file 
+Sep 13 19:55:32 - Convert.php called 
+Sep 13 19:55:32 - Missing origin file 
+Sep 13 19:55:37 - Convert.php called 
+Sep 13 19:55:37 - Missing origin file 
+Sep 13 19:56:13 - Convert.php called 
+Sep 13 19:56:13 - Origin: include/Template.md - Destination: 
+Sep 13 19:56:13 - Missing destination file - use default.html 
+Sep 13 19:56:13 - Success default.html created with success 
+Sep 13 19:57:28 - Convert.php called 
+Sep 13 19:57:28 - Origin: include/Template.md - Destination: 
+Sep 13 19:57:28 - Missing destination file - use default.html 
+Sep 13 19:57:28 - Success default.html created with success 
+Sep 13 19:58:20 - Convert.php called 
+Sep 13 19:58:20 - Missing origin file 
+Sep 13 19:58:28 - Convert.php called 
+Sep 13 19:58:28 - Missing origin file 
+Sep 13 19:58:37 - Convert.php called 
+Sep 13 19:58:37 - Missing origin file 
+Sep 13 20:01:52 - Convert.php called 
+Sep 13 20:01:52 - Missing origin file 
+Sep 13 20:01:56 - Convert.php called 
+Sep 13 20:01:56 - Missing origin file 
+Sep 13 20:02:02 - Convert.php called 
+Sep 13 20:02:02 - Missing origin file 
+Sep 13 20:06:04 - Convert.php called 
+Sep 13 20:06:04 - Missing origin file 
+Sep 13 20:06:07 - Convert.php called 
+Sep 13 20:06:07 - Missing origin file 
+Sep 13 20:06:16 - Convert.php called 
+Sep 13 20:06:16 - Missing origin file 
+Sep 13 20:06:19 - Convert.php called 
+Sep 13 20:06:19 - Missing origin file 
+Sep 13 20:06:23 - Convert.php called 
+Sep 13 20:06:23 - Missing origin file 
+Sep 13 20:07:18 - Convert.php called 
+Sep 13 20:07:18 - Missing origin file 
+Sep 13 20:09:21 - Convert.php called 
+Sep 13 20:09:21 - Origin: file.h - Destination: 
+Sep 13 20:09:21 - Missing destination file - use default.html 
+Sep 13 20:09:21 - Origin file not found 
+Sep 13 20:10:36 - Convert.php called 
+Sep 13 20:10:36 - Origin: file.h - Destination: 
+Sep 13 20:10:36 - Missing destination file - use default.html 
+Sep 13 20:10:36 - Origin file not found 
+Sep 13 20:11:10 - Convert.php called 
+Sep 13 20:11:10 - Origin: file.h - Destination: 
+Sep 13 20:11:10 - Missing destination file - use default.html
+ 
+Sep 13 20:11:10 - Origin file not found 
+Sep 13 20:11:21 - Convert.php called 
+Sep 13 20:11:21 - Origin: file.h - Destination: 
+Sep 13 20:11:21 - Missing destination file - use default.html<br/> 
+Sep 13 20:11:21 - Origin file not found 
+Sep 13 20:11:31 - Convert.php called 
+Sep 13 20:11:31 - Origin: file.h - Destination: 
+Sep 13 20:11:31 - Missing destination file - use default.html<br/> 
+Sep 13 20:11:31 - Origin file not found 
+Sep 13 20:11:58 - Convert.php called 
+Sep 13 20:11:58 - Origin: include/markdown-sample.md - Destination: 
+Sep 13 20:11:58 - Missing destination file - use default.html<br/> 
+Sep 13 20:11:58 - Success default.html created with success 
+Sep 13 20:17:23 - Convert.php called 
+Sep 13 20:17:23 - Missing origin file 
+Sep 13 20:17:33 - Convert.php called 
+Sep 13 20:17:33 - Origin: file.php - Destination:file.php 
+Sep 13 20:17:33 - Origin file not found 
+Sep 13 20:18:06 - Convert.php called 
+Sep 13 20:18:06 - Origin: include/Template.md - Destination:include/Template.md 
+Sep 13 20:18:06 - Destination file alredy existing 
+Sep 13 20:18:54 - Convert.php called 
+Sep 13 20:18:54 - Origin: include/Template.md - Destination:file.html 
+Sep 13 20:18:54 - Success file.html created with success 
